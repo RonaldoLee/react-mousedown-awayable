@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+build
+Desktop.ini
+node_modules
+*.log
