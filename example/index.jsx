@@ -1,7 +1,7 @@
 'use strict';
 
 var React = require("react");
-var MousedownAwayable = require("../index.jsx");
+var MousedownAwayable = require("react-mousedown-awayable");
 
 var Rect = React.createClass({
     mixins: [MousedownAwayable],
